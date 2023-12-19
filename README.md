@@ -1,1 +1,1 @@
-# MIFNet-Multimodal-interactive-fusion-network
+# MIFNet: Multimodal interactive fusion network for medication recommendation
